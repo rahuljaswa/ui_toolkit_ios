@@ -1,0 +1,14 @@
+PODS:
+  - ui_toolkit_ios (0.1.0)
+
+DEPENDENCIES:
+  - ui_toolkit_ios (from `../`)
+
+EXTERNAL SOURCES:
+  ui_toolkit_ios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ui_toolkit_ios: 8346a780912b4ea095aff908a112978963c440f8
+
+COCOAPODS: 0.38.2

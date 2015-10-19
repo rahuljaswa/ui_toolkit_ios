@@ -1,0 +1,6 @@
+framework module ui_toolkit_ios {
+  umbrella header "ui_toolkit_ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
