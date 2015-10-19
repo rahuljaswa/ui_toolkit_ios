@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+
+target 'ui_toolkit_ios_Tests', :exclusive => true do
+  pod "ui_toolkit_ios", :path => "../"
+
+  
+end
